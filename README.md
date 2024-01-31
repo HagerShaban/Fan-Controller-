@@ -1,2 +1,2 @@
-# Fan-Controller-
-Implementation of a fan controller system with some specifications.
+# Fan-Controller
+ Design a temperature-controlled fan using ATmega16 Microcontroller in which the fan is automatically turned ON or OFF according to the temperature.
